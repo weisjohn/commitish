@@ -1,0 +1,27 @@
+{
+  "name": "commitish",
+  "version": "0.0.1",
+  "description": "generate fake commit sha1s.substr(0,6)s",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/weisjohn/commitish.git"
+  },
+  "keywords": [
+    "git",
+    "commitish",
+    "test",
+    "generator",
+    "fake",
+    "data"
+  ],
+  "author": "John Weis <weis.john@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weisjohn/commitish/issues"
+  },
+  "homepage": "https://github.com/weisjohn/commitish"
+}
